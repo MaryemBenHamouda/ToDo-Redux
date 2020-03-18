@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+.header{
+  background: #4696E5;
+  padding: 40px;
+  width: 900px;
+  height: 300px;
+  margin: 0 auto;
+  color: white;
+  display: flex;
+  flex-direction: column;    
+  align-items: flex-end ;
+ margin-top: 20px;
+}
+.input {
+  width: 100%;
+  margin:30px 10px 0  10px;
+}
+.add {
+  margin: 20px 0;
+}   
+.btn btn-primary{
+   padding: 10px 50px;
+}
+.boutton{
+  display: flex;
+  align-items:  center;
+
+}
+.btn{
+  margin:10px;
+}
+.inder{
+  text-decoration: line-through;
+  margin:10px;
+}
